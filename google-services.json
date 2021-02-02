@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870679693874",
+    "project_id": "weeding-f9f8d",
+    "storage_bucket": "weeding-f9f8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870679693874:android:4fb8863321e2257ef64a2b",
+        "android_client_info": {
+          "package_name": "id.weeding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870679693874-7tctdhqa24fv9shtcnsf6u1vcs1o925p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG887g85bJs7njriPmmrJBNePdte9VsTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870679693874-7tctdhqa24fv9shtcnsf6u1vcs1o925p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
